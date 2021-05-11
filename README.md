@@ -1,4 +1,4 @@
-# Ad-Fraudlent-Clicks_Classification
+# Ad-Fraudulent-Clicks_Classification
 
 ### DATA UNDERSTANDING
 
